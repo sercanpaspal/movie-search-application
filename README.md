@@ -48,7 +48,7 @@ To run unit tests:
 npm test
 ```
 
-## Contribution
+## Contribution
 
 Feel free
 
