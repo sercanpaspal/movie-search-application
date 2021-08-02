@@ -1,0 +1,9 @@
+.content {
+    padding: 20px;
+}
+
+.innerContent {
+    background: #ff0033;
+    color: #fff;
+    padding: 20px;
+}

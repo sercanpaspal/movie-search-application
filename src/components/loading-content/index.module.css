@@ -1,0 +1,9 @@
+.content {
+    padding: 20px;
+    text-align: center
+}
+.svg {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}

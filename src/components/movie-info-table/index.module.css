@@ -1,0 +1,14 @@
+.table {
+    width: 100%;
+    text-align: left;
+    border: none;
+}
+
+.table th {
+    vertical-align: top
+}
+
+.table th, .table td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+}

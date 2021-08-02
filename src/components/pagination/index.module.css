@@ -1,0 +1,10 @@
+.list {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.list li {
+    padding: 5px;
+    font-weight: 700;
+}

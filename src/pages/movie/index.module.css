@@ -1,0 +1,16 @@
+.content {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.col {
+    width: 50%;
+    padding: 20px;
+}
+
+@media (max-width: 767px) {
+    .col {
+        width: 100%;
+    }
+}
+
